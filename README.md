@@ -4,14 +4,10 @@
 An interactive **Power BI dashboard** analyzing SuperStore retail sales data (2014-2017) to uncover insights on product performance, customer segmentation, and shipping optimization.
 
 ## Dashboard Preview (Power BI)
-### 1. Main Dashboard Overview
-![Main Dashboard](Screenshoot%20Dashboard/Superstore-1%20Main%20Dashboard.png)
-### 2. Profit & Sales by Products
-![Profit & Sales Products](Screenshoot%20Dashboard/Superstore-2%20Profit%20&%20Sales%20Products.png)
-### 3. Customer Segmentation (RFM)
-![Customer Segmentation](Screenshoot%20Dashboard/Superstore-3%20Customer%20Segmentations.png)
-### 4. Shipping Mode Analysis
-![Shipping Mode](Screenshoot%20Dashboard/Superstore-4%20Shipping%20Mode.png)
+[![Main Dashboard](Screenshoot%20Dashboard/Superstore-1%20Main%20Dashboard.png)](https://github.com/dhifa15/Customer-Segmentation-Analysis-df-Superstore/blob/main/Screenshoot%20Dashboard/Superstore-1.%20Main%20Dashboard.png)
+![Profit & Sales Products]([Screenshoot%20Dashboard/Superstore-2%20Profit%20&%20Sales%20Products.png](https://github.com/dhifa15/Customer-Segmentation-Analysis-df-Superstore/blob/main/Screenshoot%20Dashboard/Superstore-2.%20Profit%20%26%20Sales%20Products.png))
+![Customer Segmentation]([Screenshoot%20Dashboard/Superstore-3%20Customer%20Segmentations.png](https://github.com/dhifa15/Customer-Segmentation-Analysis-df-Superstore/blob/main/Screenshoot%20Dashboard/Superstore-3.%20Customer%20Segmentations.png))
+![Shipping Mode]([Screenshoot%20Dashboard/Superstore-4%20Shipping%20Mode.png](https://github.com/dhifa15/Customer-Segmentation-Analysis-df-Superstore/blob/main/Screenshoot%20Dashboard/Superstore-4.%20Shipping%20Mode.png))
 
 ## Project Overview
 This project analyzes transactional data from SuperStore, a retail company selling office supplies, technology, and furniture. The goal is to provide actionable business recommendations through exploratory data analysis and interactive visualizations.
