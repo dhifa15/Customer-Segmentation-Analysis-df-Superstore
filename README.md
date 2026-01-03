@@ -3,7 +3,7 @@
 # SuperStore Sales Analysis Dashboard 📊
 An interactive **Power BI dashboard** analyzing SuperStore retail sales data (2014-2017) to uncover insights on product performance, customer segmentation, and shipping optimization.
 
-## Dashboard Preview 
+## Dashboard Preview (Power BI)
 ### 1. Main Dashboard Overview
 ![Main Dashboard](Screenshoot%20Dashboard/Superstore-1%20Main%20Dashboard.png)
 ### 2. Profit & Sales by Products
