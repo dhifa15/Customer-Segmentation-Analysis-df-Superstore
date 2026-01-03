@@ -7,8 +7,6 @@ An interactive **Power BI dashboard** analyzing SuperStore retail sales data (20
 ![Main Dashboard](Screenshoot%20Dashboard/Superstore-1%20Main%20Dashboard.png)
 ![Profit & Sales Products](Screenshoot%20Dashboard/Superstore-2%20Profit%20&%20Sales%20Products.png)
 ![Customer Segmentation](Screenshoot%20Dashboard/Superstore-3%20Customer%20Segmentations.png)
-
-### 4. Shipping Mode Analysis
 ![Shipping Mode](Screenshoot%20Dashboard/Superstore-4%20Shipping%20Mode.png)
 
 ## Project Overview
