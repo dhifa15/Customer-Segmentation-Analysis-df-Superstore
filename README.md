@@ -3,6 +3,9 @@
 # SuperStore Sales Analysis Dashboard 📊
 An interactive **Power BI dashboard** analyzing SuperStore retail sales data (2014-2017) to uncover insights on product performance, customer segmentation, and shipping optimization.
 
+## Dashboard Preview 
+
+
 ## Project Overview
 This project analyzes transactional data from SuperStore, a retail company selling office supplies, technology, and furniture. The goal is to provide actionable business recommendations through exploratory data analysis and interactive visualizations.
 
@@ -30,6 +33,6 @@ This project analyzes transactional data from SuperStore, a retail company selli
 
 **Hazna Dhifa Putri Ardeva**  
 Data Analyst Enthusiast | Hactiv8 Bootcamp Student  
-🔗 [LinkedIn](https://linkedin.com/in/haznadhifa) | 📧 [Email](mailto:your.email@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/haznadhifa) | 📧 [Email](mailto:haznadifa123@gmail.com)
 
 Thanks for visiting! Feel free to star ⭐ the repo if you find it useful.
