@@ -4,10 +4,11 @@
 An interactive **Power BI dashboard** analyzing SuperStore retail sales data (2014-2017) to uncover insights on product performance, customer segmentation, and shipping optimization.
 
 ## Dashboard Preview (Power BI)
-[![Main Dashboard]()
-![Profit & Sales Products]()
-![Customer Segmentation]()
-![Shipping Mode]()
+![Main Dashboard](Screenshot%20Dashboard/Superstore-1.%20Main%20Dashboard.png)
+![Profit & Sales](Screenshot%20Dashboard/Superstore-2.%20Profit%20&%20Sales%20Products.png)
+![Customer Segmentation](Screenshot%20Dashboard/Superstore-3.%20Customer%20Segmentations.png)
+![Shipping Mode](Screenshot%20Dashboard/Superstore-4.%20Shipping%20Mode.png)
+
 
 ## Project Overview
 This project analyzes transactional data from SuperStore, a retail company selling office supplies, technology, and furniture. The goal is to provide actionable business recommendations through exploratory data analysis and interactive visualizations.
